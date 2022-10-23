@@ -1,0 +1,38 @@
+V=2
+M=3
+a =[0.4, 1]
+t = [1,2]
+x = [1]*(V+1)
+
+for n in(1, V+1):
+    sum = 0
+    for i in(0,M+1):
+        if n >= t[i]
+    sum += a[i]*t[i]*x[n-t[i]]
+    x[n]=sum/n
+return x
+
+s=0
+
+for i in x:
+    st = i
+p_0 = 1/s
+return p_0
+
+p = [1]*(V,1)
+p[0] = p_0
+
+for n in(1, V+1):
+    sum = 0
+    for i in(0,M+1):
+        if n >= t[i]
+    sum += a[i]*t[i]*p[n-t[i]]
+    p[n]=sum/n
+return p
+
+
+sum = 0
+for i in (V-t[i=1]+1, V+1)
+    sum += P[n]
+return sum
+    
